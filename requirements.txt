@@ -1,0 +1,8 @@
+matplotlib==2.0.0
+opencv_python==3.3.0.10
+pandas==0.20.1
+torch==0.2.0.post4
+numpy==1.13.3
+skimage==0.0
+tensorboardX==0.8
+torchvision==0.1.9
